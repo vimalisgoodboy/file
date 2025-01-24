@@ -5,6 +5,9 @@ phiSIng social media account @ACK  PYPHISING ZPHISING NGROK FREE DOESNTOT SUPPOR
 WINRAR CRETE SFX ADVANCED CHANGE HIDDEN ALL,AFTER EXECUTION 
 HACK IGNITO USING WIRESARK CAPTURE AND PCAP ANALYSIS https://apackets.com/ WORK WIT HTTP WEBSITE BECAUYSE SEND AS TXT FILES
 CSRF --> CANGING IF SUBMIT GIVEN REDIRECT TO ANOTHER WEBSITE COPY SOURCE CODE 
+
+
+blind xss-->stored xss ===>xss hunter
 HACK WEBCAM,MIC STROMBREAKER
 NMAP
 IDOR->INSCURE DIRECT OBJECT REFERENCE --> CHANGE IF ?USER=6 IF USER CHANGE TO 6 I CAN ACCCESS 6 T USER PAGE
@@ -36,4 +39,11 @@ OTP BY PASS MANIPULATION INTEREPTIION ON ON BURP
 STEAL COOKIE
 BURP COLAB
 WEBHOOK------>WEBOOK WEBSITE
+cors===>cross origin resource sharing
+data shared between facebook insta
+faceb======>evil.com data share
+
+
+sl injection add ' or " at lass in usr ip field it vulnarable to sql in
+parameter tampering price manipulation
 
