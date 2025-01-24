@@ -46,4 +46,4 @@ faceb======>evil.com data share
 
 sl injection add ' or " at lass in usr ip field it vulnarable to sql in
 parameter tampering price manipulation
-
+wappalyser exten for web dtails
